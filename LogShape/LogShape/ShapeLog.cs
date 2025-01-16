@@ -21,6 +21,8 @@ namespace LogShape
         public string folderPath;  // 로그 저장할 폴더의 경로 받기
         public string tempFolderPath = "C:\\ProgramData\\Autodesk\\Revit\\temp";
         public string userId;         // 작성자의 아이디 추출
+        
+        public string 안녕;
 
         public JArray Slog = new JArray();
 
