@@ -22,7 +22,7 @@ namespace LogShape
         public string tempFolderPath = "C:\\ProgramData\\Autodesk\\Revit\\temp";
         public string userId;         // 작성자의 아이디 추출
         
-        public string 안녕3;
+        public string 안녕3ㅂㅈㄷㅂㅈㄷ;
 
         public JArray Slog = new JArray();
 
